@@ -1,4 +1,4 @@
-let generateOTP = () => {
+let generateOTP = () =>{
   //Define the length of the OTP
   const otpLength = 6;
 
